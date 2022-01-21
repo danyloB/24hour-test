@@ -1,0 +1,15 @@
+{
+  "name": "lambda-sign-up",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "author": "Danylo Batishchev",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.76"
+  },
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
